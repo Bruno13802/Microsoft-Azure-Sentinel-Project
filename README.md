@@ -2,7 +2,7 @@
 
 This project was created as my college final project, where I set up a honeypot in Microsoft Azure to capture and analyze malicious login attempts. Using Azure Sentinel, I visualized failed RDP logins on a world map to show the origin of attacks in real time.  
 
-I presented this project in front of the Head of Computer Science and Cybersecurity at my college and successfully passed.
+I presented this project in front of the Head of Computer Science and Cybersecurity (Fairleigh Dickinson University) and successfully passed.
 
 ---
 
